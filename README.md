@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there, welcome to my github 👋
+I'm a Software Engineer with over eight years of experience in the FinTech and payments industry. 
+
+## Featured
+
+### AI Question & Answer Web Template
+* Built an open‑source Python Flask web app template for AI Question and Answering on source documents, utilizing LangChain and the OpenAI
+API.
+* link: https://github.com/pgrennin/ai_question_answer_web_template
+
+### My resume
+* My resume built off of Awesome CV LaTeX
+* link: https://github.com/pgrennin/patrick_grenning_resume
+
 
 <!--
 **pgrennin/pgrennin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
