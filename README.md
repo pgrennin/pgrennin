@@ -1,5 +1,5 @@
 ### Hi there, welcome to my github 👋
-I'm a Software Engineer with over eight years of experience in the FinTech and payments industry. 
+
 
 ## Featured
 
